@@ -11,4 +11,8 @@
 |Chapter 6|[Filtering Operators-Practice](https://mingging.notion.site/Session-11-12-e50ab89ebef24d40b2533962dbd013a3?pvs=4)|[Filtering Operators-Practice](https://www.notion.so/Reactive_Programming_with_Swift-06-Filtering-Operators-in-Practice-03b634ff88904d8e9df49438fbfec5fe?pvs=4)|
 |Chapter 7|[Transforming Operators](https://mingging.notion.site/Session-13-f5c10a6649aa4fe2a9c78ccf99e9e0c4?pvs=4)|[Transforming Operators](https://www.notion.so/Reactive_Programming_with_Swift-07-Transforming-Operators-c2ce3e0ec6e6448086932e8fb780fcdb?pvs=4)|
 |Chapter 8|[Transforming Operators in Practice](https://mingging.notion.site/Session-15-16-94a9ab9cbe5b4c718f84b7e3658ef780?pvs=4)|[Transforming Operators in Practice](https://www.notion.so/Reactive_Programming_with_Swift-08-Transforming-Operators-in-Practice-c2d30a8ed8f44a9e80d5fb9d29a72d2e?pvs=4)|
-|Chapter 9|[Combining Operators](https://mingging.notion.site/Session-17-397e87ba9e16456dbdf8b87071269ff3?pvs=4)|[Combining Operators]()|
+|Chapter 9|[Combining Operators](https://mingging.notion.site/Session-17-397e87ba9e16456dbdf8b87071269ff3?pvs=4)|[Combining Operators](https://www.notion.so/Reactive_Programming_with_Swift-09-Combining-Operators-96ac6c11b7d3453499ebd448f6b2378d?pvs=4)|
+|Chapter 10|[Combining Operators in Practice]()|[Combining Operators in Practice](https://www.notion.so/Reactive_Programming_with_Swift-10-Combining-Operators-in-Practice-7c215d3b8f9942008416c7a5c583b08d?pvs=4)|
+|Chapter 12|[Beginning RxCocoa]()|[Beginning RxCocoa](https://www.notion.so/Reactive_Programming_with_Swift-12-Beginning-RxCocoa-64a6fd8631e04973b3138f075f9c1abe?pvs=4)|
+
+
