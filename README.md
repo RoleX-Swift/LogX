@@ -14,5 +14,4 @@
 |Chapter 9|[Combining Operators](https://mingging.notion.site/Session-17-397e87ba9e16456dbdf8b87071269ff3?pvs=4)|[Combining Operators](https://www.notion.so/Reactive_Programming_with_Swift-09-Combining-Operators-96ac6c11b7d3453499ebd448f6b2378d?pvs=4)|
 |Chapter 10|[Combining Operators in Practice]()|[Combining Operators in Practice](https://www.notion.so/Reactive_Programming_with_Swift-10-Combining-Operators-in-Practice-7c215d3b8f9942008416c7a5c583b08d?pvs=4)|
 |Chapter 12|[Beginning RxCocoa]()|[Beginning RxCocoa](https://www.notion.so/Reactive_Programming_with_Swift-12-Beginning-RxCocoa-64a6fd8631e04973b3138f075f9c1abe?pvs=4)|
-
-
+|Chapter 13|[Intermediate RxCocoa]()|[Intermediate RxCocoa](https://www.notion.so/Reactive_Programming_with_Swift-13-Intermediate-RxCocoa-032edc0da6934cf1b8be3b09dde6a3bc?pvs=4)|
